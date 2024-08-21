@@ -22,17 +22,13 @@
   ```
   git clone https://github.com/stbn7/basant-materia-dark-mpcqt-skin.git
   ```
-- Copiar la carpeta images y el archivo mainwindow.ui dentro de la carpeta del repositorio <strong>mpc-qt</strong>
+- Copiar la carpeta `images` y el archivo `mainwindow.ui` dentro de la carpeta del repositorio <strong>mpc-qt</strong>
 
 - Finalmente, dentro de la carpera <strong>mpc-qt</strong> abre la terminal y ejecuta los siguientes comandos:
 
   ```
   qmake6
-  ```
-  ```
   make -j`nproc`
-  ```
-  ```
   sudo make install
   ```
 
