@@ -26,7 +26,7 @@
 - Clonar este repositorio
   
   ```
-    git clone https://github.com/stbn7/basant-materia-dark-mpcqt-skin.git
+    git clone https://github.com/stbn7/materia-dark-mpcqt-theme.git
   ```
 - Copiar todo el contenido de la carpeta `basant-materia-dark-mpcqt-skin` dentro de la carpeta `mpc-qt-24.06`
 
